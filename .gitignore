@@ -1,0 +1,17 @@
+# Backup automatici di Blender
+*.blend1
+*.blend2
+
+# File temporanei e log di crash
+*.blend@
+*.crash.txt
+crash.txt
+
+# File di sistema (se usi Mac o Windows)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Cartelle di esportazione/render (Opzionale)
+# Rimuovi il '#' dalla riga sotto se vuoi che Git ignori un'intera cartella chiamata "renders"
+# /renders/
